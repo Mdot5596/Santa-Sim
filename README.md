@@ -1,10 +1,8 @@
-# Santa-Sim
+# Santa-Sim #
 Third Prototype for Falmouth University 
 This repo contains a zipped build that you can easily download and run
 
-<img src="https://raw.githubusercontent.com/mdot5596/mdot5596/main/banner.png" alt="Game" width="100%" />
-
-
+<img width="602" height="340" alt="Picture1" src="https://github.com/user-attachments/assets/28aa7781-2f75-470a-af10-429959d3ff74" />
 
 The idea for this game came to me because I love Christmas. It is currently the 5th of December as I am writing this, and I have already been listening to Christmas music and wearing my Christmas jumpers for weeks now. Let me ask you a question: what is your favourite Christmas movie that you watch every year, or your favourite Christmas song, or your favourite food you eat during this time? I can guarantee you have an answer to each of those questions (unless you don’t celebrate Christmas), but can you answer this: what is your favourite Christmas video game?
 
