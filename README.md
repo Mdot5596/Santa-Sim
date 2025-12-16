@@ -19,7 +19,9 @@ After thinking about this, I realised that the game isn’t tailored to those gr
 [Gramophone](https://assetstore.unity.com/packages/3d/props/gramophone-record-player-304065)
 [Snow Particles](https://assetstore.unity.com/packages/vfx/particles/environment/hail-particles-pack-62038)
 [Snow Materials](https://assetstore.unity.com/packages/2d/textures-materials/4-snow-materials-high-quality-materials-collection-69201)
-[Christmas Music](https://prosearch.tribeofnoise.com/artists/show/70210/33558)
 
 
+[Menu Music](https://freemusicarchive.org/music/audiorezout/winter-holidays/winter-forest/)
+[Level 1 Music](https://freemusicarchive.org/music/muzaproduction/christmas-music/little-christmas/)
+[Level 2 Music](https://freemusicarchive.org/music/audiorezout/winter-holidays/a-christmas-twinkle/)
 
